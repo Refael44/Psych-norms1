@@ -1,0 +1,2543 @@
+[
+  {
+    "class": "כיתה ב'",
+    "period": "מרץ - אוגוסט",
+    "tests": [
+      {
+        "test_number": "1.1",
+        "test_name": "קריאת בהקשר - קטע סיפורי (\"חברה חדשה\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 74.93,
+            "standard_deviation": 33.68,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-7", "standard_score_range": "-1.39 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-16", "standard_score_range": "(-1.10)-(-1.39)"},
+              {"level": "נמוכה", "raw_score_range": "17-25", "standard_score_range": "(-0.83)-(-1.07)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "26-35", "standard_score_range": "(-0.50)-(-0.80)"},
+              {"level": "בינונית", "raw_score_range": "35.1-65", "standard_score_range": "(-0.47)-0.36"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "65.1-80", "standard_score_range": "0.39-0.86"},
+              {"level": "גבוהה", "raw_score_range": "80.1-90", "standard_score_range": "0.89-1.34"},
+              {"level": "גבוהה מאוד", "raw_score_range": "90.1 ומעלה", "standard_score_range": "1.36 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 5.63,
+            "standard_deviation": 8.62,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "14-100", "standard_score_range": "(-0.97)-(-10.94)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "10-13", "standard_score_range": "(-0.85)-(-0.91)"},
+              {"level": "נמוכה", "raw_score_range": "8-9", "standard_score_range": "(-0.39)-(-0.81)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "5-7", "standard_score_range": "(-0.27)-(-0.37)"},
+              {"level": "בינונית", "raw_score_range": "1-4", "standard_score_range": "0.07-(-0.16)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.54"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "1.2",
+        "test_name": "קריאת בהקשר - קטע סיפורי (\"בתאבון\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 68.98,
+            "standard_deviation": 34.42,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-24", "standard_score_range": "-1.30 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "25-34", "standard_score_range": "(-1.01)-(-1.27)"},
+              {"level": "נמוכה", "raw_score_range": "35-40", "standard_score_range": "(-0.84)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "41-54", "standard_score_range": "(-0.49)-(-0.81)"},
+              {"level": "בינונית", "raw_score_range": "55-80", "standard_score_range": "(-0.40)-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "81-95", "standard_score_range": "0.38-0.84"},
+              {"level": "גבוהה", "raw_score_range": "96-112", "standard_score_range": "0.88-1.24"},
+              {"level": "גבוהה מאוד", "raw_score_range": "113 ומעלה", "standard_score_range": "1.27 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 5.98,
+            "standard_deviation": 8.15,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "18-100", "standard_score_range": "(-1.47)-(-11.5)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "11-17", "standard_score_range": "(-0.61)-(-1.35)"},
+              {"level": "נמוכה", "raw_score_range": "8-10", "standard_score_range": "(-0.24)-(-0.49)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "5-7", "standard_score_range": "(-0.12)-(-0.22)"},
+              {"level": "בינונית", "raw_score_range": "2-4", "standard_score_range": "0.48-0.24"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.61"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.73"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "2",
+        "test_name": "קריאת מילים בודדות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 60.12,
+            "standard_deviation": 16.41,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-12", "standard_score_range": "-1.70 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "13-19", "standard_score_range": "(-0.91)-(-1.13)"},
+              {"level": "נמוכה", "raw_score_range": "20-25", "standard_score_range": "(-0.63)-(-0.88)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "26-32", "standard_score_range": "(-0.31)-(-0.60)"},
+              {"level": "בינונית", "raw_score_range": "33-50", "standard_score_range": "(-0.28)-0.52"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "51-59", "standard_score_range": "0.55-0.79"},
+              {"level": "גבוהה", "raw_score_range": "60-68", "standard_score_range": "0.82-1.08"},
+              {"level": "גבוהה מאוד", "raw_score_range": "69 ומעלה", "standard_score_range": "1.11 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 22.65,
+            "standard_deviation": 18.41,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "38-100", "standard_score_range": "(-0.81)-(-1.70)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "30-37", "standard_score_range": "(-0.61)-(-0.78)"},
+              {"level": "נמוכה", "raw_score_range": "24-29", "standard_score_range": "(-0.33)-(-0.56)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "18-23", "standard_score_range": "(-0.07)-(-0.26)"},
+              {"level": "בינונית", "raw_score_range": "8-17", "standard_score_range": "0.52-0.21"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "6-7", "standard_score_range": "0.77-0.85"},
+              {"level": "גבוהה", "raw_score_range": "1-5", "standard_score_range": "1.06-1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.29"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "3.1",
+        "test_name": "קריאת מילות תפל",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 17.87,
+            "standard_deviation": 8.89,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-8", "standard_score_range": "-1.11 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "9-10", "standard_score_range": "(-0.88)-(-0.99)"},
+              {"level": "נמוכה", "raw_score_range": "11-12", "standard_score_range": "(-0.66)-(-0.77)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "13-19", "standard_score_range": "(-0.43)-(-0.54)"},
+              {"level": "בינונית", "raw_score_range": "19.1-35", "standard_score_range": "(-0.43)-0.12"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "35.1-58", "standard_score_range": "0.12-0.48"},
+              {"level": "גבוהה", "raw_score_range": "58.1-80", "standard_score_range": "0.48-0.87"},
+              {"level": "גבוהה מאוד", "raw_score_range": "80.1 ומעלה", "standard_score_range": "0.90 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 38.55,
+            "standard_deviation": 24.51,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "79-100", "standard_score_range": "(-1.64)-(-2.50)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "64-78", "standard_score_range": "(-1.03)-(-1.40)"},
+              {"level": "נמוכה", "raw_score_range": "48-63", "standard_score_range": "(-0.79)-(-0.99)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "34-47", "standard_score_range": "(-0.38)-(-0.75)"},
+              {"level": "בינונית", "raw_score_range": "15-33", "standard_score_range": "0.59-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "9-14", "standard_score_range": "0.96-0.63"},
+              {"level": "גבוהה", "raw_score_range": "1-8", "standard_score_range": "1.20-1.57"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.25"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "3.2",
+        "test_name": "קריאת צירופי עיצורים ותנועות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 93.93,
+            "standard_deviation": 15.98,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-22", "standard_score_range": "-1.85 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "23-29", "standard_score_range": "(-0.93)-(-1.30)"},
+              {"level": "נמוכה", "raw_score_range": "30-37", "standard_score_range": "(-0.68)-(-0.87)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "38-49", "standard_score_range": "(-0.43)-(-0.62)"},
+              {"level": "בינונית", "raw_score_range": "50-63", "standard_score_range": "(-0.31)-0.37"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "64", "standard_score_range": "0.39"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 26.11,
+            "standard_deviation": 19.16,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "59-100", "standard_score_range": "(-1.71)-(-3.85)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "48-58", "standard_score_range": "(-1.14)-(-1.66)"},
+              {"level": "נמוכה", "raw_score_range": "37-47", "standard_score_range": "(-0.57)-(-1.09)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "30-36", "standard_score_range": "(-0.20)-(-0.51)"},
+              {"level": "בינונית", "raw_score_range": "14-29", "standard_score_range": "0.63-(-0.15)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "8-13", "standard_score_range": "0.94-0.68"},
+              {"level": "גבוהה", "raw_score_range": "5-7", "standard_score_range": "1.10-1.15"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-4", "standard_score_range": "1.36-1.71"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.1",
+        "test_name": "קריאת בהקשר - טקסט מנוקד: רמה 1 (\"יש לא היה פחדן\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 80.30,
+            "standard_deviation": 36.02,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-30", "standard_score_range": "-1.39 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "31-41", "standard_score_range": "(-1.09)-(-1.36)"},
+              {"level": "נמוכה", "raw_score_range": "42-53", "standard_score_range": "(-0.84)-(-1.06)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "54-63", "standard_score_range": "(-0.48)-(-0.81)"},
+              {"level": "בינונית", "raw_score_range": "64-95", "standard_score_range": "(-0.45)-0.40"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "96-108", "standard_score_range": "0.43-0.88"},
+              {"level": "גבוהה", "raw_score_range": "109-129", "standard_score_range": "0.90-1.35"},
+              {"level": "גבוהה מאוד", "raw_score_range": "130 ומעלה", "standard_score_range": "1.37 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 5.09,
+            "standard_deviation": 8.14,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "14-100", "standard_score_range": "(-1.09)-(-11.65)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "9-13", "standard_score_range": "(-0.48)-(-0.97)"},
+              {"level": "נמוכה", "raw_score_range": "6-8", "standard_score_range": "(-0.11)-(-0.35)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "4-5", "standard_score_range": "0.13-0.01"},
+              {"level": "בינונית", "raw_score_range": "1-3", "standard_score_range": "0.46-0.21"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.62"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.2",
+        "test_name": "קריאת בהקשר - טקסט לא מנוקד: רמה 1 (\"לפעמים כששחיתי\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 70.90,
+            "standard_deviation": 34.36,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-33", "standard_score_range": "-1.10 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "34-42", "standard_score_range": "(-0.96)-(-1.07)"},
+              {"level": "נמוכה", "raw_score_range": "43-53", "standard_score_range": "(-0.70)-(-0.81)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "54-85", "standard_score_range": "(-0.41)-(-0.69)"},
+              {"level": "בינונית", "raw_score_range": "86-118", "standard_score_range": "0.43-0.84"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "119-120", "standard_score_range": "1.37-1.39"},
+              {"level": "גבוהה", "raw_score_range": "121 ומעלה", "standard_score_range": "1.39 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 6.73,
+            "standard_deviation": 10.00,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "14-100", "standard_score_range": "(-1.32)-(-9.32)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "9-13", "standard_score_range": "(-0.52)-(-1.22)"},
+              {"level": "נמוכה", "raw_score_range": "6-8", "standard_score_range": "(-0.12)-(-0.42)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "2-5", "standard_score_range": "0.07-(-0.10)"},
+              {"level": "בינונית", "raw_score_range": "1", "standard_score_range": "0.47"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.67"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "4.3",
+        "test_name": "השפעת ההקשר על קריאת מילים בודדות - רמה 1",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 65.45,
+            "standard_deviation": 29.05,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-23", "standard_score_range": "-1.46 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "24-31", "standard_score_range": "(-1.18)-(-1.42)"},
+              {"level": "נמוכה", "raw_score_range": "32-42", "standard_score_range": "(-0.80)-(-1.15)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "43-53", "standard_score_range": "(-0.42)-(-0.77)"},
+              {"level": "בינונית", "raw_score_range": "54-79", "standard_score_range": "(-0.39)-0.46"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "80-91", "standard_score_range": "0.50-0.87"},
+              {"level": "גבוהה", "raw_score_range": "92-101", "standard_score_range": "0.91-1.22"},
+              {"level": "גבוהה מאוד", "raw_score_range": "102 ומעלה", "standard_score_range": "1.25 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 7.31,
+            "standard_deviation": 11.02,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "14-100", "standard_score_range": "(-1.51)-(-8.41)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-13", "standard_score_range": "(-0.60)-(-1.42)"},
+              {"level": "נמוכה", "raw_score_range": "6-7", "standard_score_range": "(-0.06)-(-0.51)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "2-5", "standard_score_range": "0.48-0.21"},
+              {"level": "בינונית", "raw_score_range": "1", "standard_score_range": "0.57"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.66"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 1",
+        "test_name": "השפעת ההפרש על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": 14.57,
+            "standard_deviation": 18.88,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": -2.02,
+            "standard_deviation": 6.18,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 2",
+        "test_name": "השפעת הניקוד על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": 9.78,
+            "standard_deviation": 13.87,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": -2.00,
+            "standard_deviation": 6.70,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.1",
+        "test_name": "דיבור חברתיות כתב",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 13.03,
+            "standard_deviation": 5.66,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-7", "standard_score_range": "-1.06 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-9", "standard_score_range": "(-0.88)-(-0.99)"},
+              {"level": "נמוכה", "raw_score_range": "10", "standard_score_range": "(-0.71)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "11-13", "standard_score_range": "(-0.53)-(-0.005)"},
+              {"level": "בינונית", "raw_score_range": "13-16", "standard_score_range": "(-0.005)-0.36"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "17-21", "standard_score_range": "0.52-0.17"},
+              {"level": "גבוהה", "raw_score_range": "22-27", "standard_score_range": "0.82-1.40"},
+              {"level": "גבוהה מאוד", "raw_score_range": "28 ומעלה", "standard_score_range": "1.58 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 27.11,
+            "standard_deviation": 20.81,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "60-100", "standard_score_range": "(-1.58)-(-3.50)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "45-59", "standard_score_range": "(-0.85)-(-1.53)"},
+              {"level": "נמוכה", "raw_score_range": "40-44", "standard_score_range": "(-0.61)-(-0.81)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-39", "standard_score_range": "(-0.37)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "15-34", "standard_score_range": "0.58-(-0.33)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "10-14", "standard_score_range": "0.82-0.63"},
+              {"level": "גבוהה", "raw_score_range": "1-9", "standard_score_range": "1.25-0.87"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.30"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.2.1",
+        "test_name": "כתיב - מילות תפקוד (פונקציה)",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 56.15,
+            "standard_deviation": 16.77,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "80-100", "standard_score_range": "(-1.42)-(-2.61)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "70-79", "standard_score_range": "(-0.82)-(-1.36)"},
+              {"level": "נמוכה", "raw_score_range": "65-69", "standard_score_range": "(-0.52)-(-0.76)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "50-64", "standard_score_range": "(-0.36)-(-0.46)"},
+              {"level": "בינונית", "raw_score_range": "45-49", "standard_score_range": "0.66-0.42"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "35-44", "standard_score_range": "1.26-0.72"},
+              {"level": "גבוהה", "raw_score_range": "0-34", "standard_score_range": "3.34-1.32"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "5.2.2",
+        "test_name": "כתיב - מילות תוכן",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 57.51,
+            "standard_deviation": 24.00,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "90-100", "standard_score_range": "(-1.32)-(-1.75)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "85-89", "standard_score_range": "(-1.15)-(-1.24)"},
+              {"level": "נמוכה", "raw_score_range": "75-84", "standard_score_range": "(-0.73)-(-1.11)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "50-74", "standard_score_range": "(-0.52)-(-0.69)"},
+              {"level": "בינונית", "raw_score_range": "25-49", "standard_score_range": "0.34-(-0.30)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0-24", "standard_score_range": "2.38-1.38"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "5.2.3",
+        "test_name": "הכתבה של טקסט- לכיתות ב'",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 11.38,
+            "standard_deviation": 4.37,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-6", "standard_score_range": "-1.23 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-8", "standard_score_range": "(-0.77)-(-1.00)"},
+              {"level": "נמוכה", "raw_score_range": "9-10", "standard_score_range": "(-0.54)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "11-14", "standard_score_range": "(-0.31)-0.29"},
+              {"level": "בינונית", "raw_score_range": "15-17", "standard_score_range": "0.52-0.81"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "18", "standard_score_range": "1.28"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 24.38,
+            "standard_deviation": 19.37,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "56-100", "standard_score_range": "(-1.63)-(-3.90)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "41-55", "standard_score_range": "(-0.85)-(-1.58)"},
+              {"level": "נמוכה", "raw_score_range": "33-40", "standard_score_range": "(-0.44)-(-0.80)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "30-32", "standard_score_range": "(-0.29)-(-0.40)"},
+              {"level": "בינונית", "raw_score_range": "15-29", "standard_score_range": "0.48-(-0.23)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "4-14", "standard_score_range": "1.05-1.25"},
+              {"level": "גבוהה", "raw_score_range": "0-3", "standard_score_range": "1.10-1.25"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.1",
+        "test_name": "שיום אוטומטי מהיר של ספרות (RAN-N)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 91.24,
+            "standard_deviation": 21.16,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-65", "standard_score_range": "-1.24 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "66-73", "standard_score_range": "(-0.86)-(-1.19)"},
+              {"level": "נמוכה", "raw_score_range": "74-78", "standard_score_range": "(-0.62)-(-0.82)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "79-83", "standard_score_range": "(-0.36)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "84-104", "standard_score_range": "(-0.35)-0.31"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "104-108", "standard_score_range": "0.33-0.59"},
+              {"level": "גבוהה", "raw_score_range": "109-120", "standard_score_range": "0.87-1.19"},
+              {"level": "גבוהה מאוד", "raw_score_range": "121 ומעלה", "standard_score_range": "1.25 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 35.33,
+            "standard_deviation": 14.56,
+            "performance_levels": [
+               {"level": "בלתי תקינה", "raw_score_range": "46 ומעלה", "standard_score_range": "(-0.73) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "41-45", "standard_score_range": "(-0.38)-(-0.66)"},
+              {"level": "נמוכה", "raw_score_range": "38-40", "standard_score_range": "(-0.18)-(-0.32)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "36-37", "standard_score_range": "(-0.04)-(-0.11)"},
+              {"level": "בינונית", "raw_score_range": "30-35", "standard_score_range": "0.36-0.02"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "28-29", "standard_score_range": "0.50-0.57"},
+              {"level": "גבוהה", "raw_score_range": "26-27", "standard_score_range": "0.64-0.70"},
+              {"level": "גבוהה מאוד", "raw_score_range": "25 ומעלה", "standard_score_range": "0.70 ומעלה"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.2",
+        "test_name": "שיום אוטומטי מהיר של אותיות (RAN-L)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 80.99,
+            "standard_deviation": 39.21,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-54", "standard_score_range": "-1.48 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "55-65", "standard_score_range": "(-0.59)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "66-70", "standard_score_range": "(-0.33)-(-0.56)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "71-87", "standard_score_range": "(-0.15)-(-0.30)"},
+              {"level": "בינונית", "raw_score_range": "88-101", "standard_score_range": "0.34-(-0.06)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "102-103", "standard_score_range": "0.85-0.94"},
+              {"level": "גבוהה", "raw_score_range": "104-124", "standard_score_range": "1.26-0.8"},
+              {"level": "גבוהה מאוד", "raw_score_range": "125 ומעלה", "standard_score_range": "1.29 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 39.21,
+            "standard_deviation": 14.29,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "54 ומעלה", "standard_score_range": "(-1.29) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "46-53", "standard_score_range": "(-0.59)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "41-45", "standard_score_range": "(-0.24)-(-0.50)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "33-40", "standard_score_range": "0.15-(-0.06)"},
+              {"level": "בינונית", "raw_score_range": "30-32", "standard_score_range": "0.45-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "29", "standard_score_range": "0.71"},
+              {"level": "גבוהה", "raw_score_range": "0-28", "standard_score_range": "1.26-0.89"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.3",
+        "test_name": "שיום אוטומטי מהיר של עצמים (RAN-O)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 56.25,
+            "standard_deviation": 15.29,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-38", "standard_score_range": "-1.44 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "39-47", "standard_score_range": "(-0.92)-(-1.15)"},
+              {"level": "נמוכה", "raw_score_range": "48-50", "standard_score_range": "(-0.60)-(-0.80)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "51-61", "standard_score_range": "(-0.35)-(-0.47)"},
+              {"level": "בינונית", "raw_score_range": "62-71", "standard_score_range": "(-0.04)-0.39"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "72-78", "standard_score_range": "0.42-0.88"},
+              {"level": "גבוהה", "raw_score_range": "79-88", "standard_score_range": "0.93-1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "89 ומעלה", "standard_score_range": "1.31 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 56.33,
+            "standard_deviation": 15.29,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "65 ומעלה", "standard_score_range": "(-1.54) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "58-64", "standard_score_range": "(-0.50)-(-1.48)"},
+              {"level": "נמוכה", "raw_score_range": "50-57", "standard_score_range": "(-0.10)-(-0.42)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "47-49", "standard_score_range": "0.10-0.04"},
+              {"level": "בינונית", "raw_score_range": "39-46", "standard_score_range": "0.74-0.47"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "34-38", "standard_score_range": "1.03-0.94"},
+              {"level": "גבוהה", "raw_score_range": "26-33", "standard_score_range": "1.33-1.09"},
+              {"level": "גבוהה מאוד", "raw_score_range": "25 ומעלה", "standard_score_range": "1.33 ומעלה"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.4",
+        "test_name": "שיום אוטומטי מהיר של גרידים מקווקווים מתחלפות (RAS)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 61.67,
+            "standard_deviation": 13.72,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-40", "standard_score_range": "-1.50 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "41-49", "standard_score_range": "(-0.92)-(-1.41)"},
+              {"level": "נמוכה", "raw_score_range": "50-57", "standard_score_range": "(-0.50)-(-0.85)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "58-68", "standard_score_range": "(-0.29)-(-0.46)"},
+              {"level": "בינונית", "raw_score_range": "69-79", "standard_score_range": "(-0.06)-0.58"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "80-84", "standard_score_range": "0.75-0.83"},
+              {"level": "גבוהה", "raw_score_range": "85-92", "standard_score_range": "1.26-1.33"},
+              {"level": "גבוהה מאוד", "raw_score_range": "93 ומעלה", "standard_score_range": "1.33 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 51.69,
+            "standard_deviation": 17.17,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "75 ומעלה", "standard_score_range": "(-1.34) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "61-74", "standard_score_range": "(-0.52)-(-1.28)"},
+              {"level": "נמוכה", "raw_score_range": "57-60", "standard_score_range": "(-0.23)-(-0.46)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "53-56", "standard_score_range": "(-0.06)-(-0.20)"},
+              {"level": "בינונית", "raw_score_range": "44-52", "standard_score_range": "0.46-0.00"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "38-43", "standard_score_range": "0.81-0.53"},
+              {"level": "גבוהה", "raw_score_range": "37", "standard_score_range": "0.87"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.5",
+        "test_name": "שפה: שיום מילים",
+        "metrics": [
+           {
+            "metric_name": "ציון",
+            "description": "מספר מילים ששלף",
+            "average": 12.17,
+            "standard_deviation": 4.58,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-7", "standard_score_range": "-1.34)-(-2.65)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-9", "standard_score_range": "(-0.91)-(-1.12)"},
+              {"level": "נמוכה", "raw_score_range": "10-14", "standard_score_range": "(-0.47)-(-0.69)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "14-17", "standard_score_range": "(-0.25)-(-0.47)"},
+              {"level": "בינונית", "raw_score_range": "18-19", "standard_score_range": "0.39-0.83"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.1",
+        "test_name": "בידוד סוגמה ראשונה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 22.82,
+            "standard_deviation": 29.01,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "80-100", "standard_score_range": "(-1.97)-(-2.66)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "60-79", "standard_score_range": "(-1.24)-(-1.93)"},
+              {"level": "נמוכה", "raw_score_range": "40-59", "standard_score_range": "(-0.59)-(-1.24)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "20-39", "standard_score_range": "0.09-(-0.55)"},
+              {"level": "בינונית", "raw_score_range": "1-19", "standard_score_range": "0.75-0.13"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.78"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.2",
+        "test_name": "בידוד סוגמה אחרונה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 24.63,
+            "standard_deviation": 21.28,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "50-100", "standard_score_range": "(-1.20)-(-3.55)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "30-49", "standard_score_range": "(-0.73)-(-1.15)"},
+              {"level": "נמוכה", "raw_score_range": "10-29", "standard_score_range": "(-0.26)-(-0.68)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "2-9", "standard_score_range": "0.67-(-0.21)"},
+              {"level": "בינונית", "raw_score_range": "1", "standard_score_range": "1.05"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "1.10"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.3",
+        "test_name": "סירוק מילה לפונמות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 66.58,
+            "standard_deviation": 32.31,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "100", "standard_score_range": "(-1.03)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "88-99", "standard_score_range": "(-0.66)-(-1.00)"},
+              {"level": "נמוכה", "raw_score_range": "63-87", "standard_score_range": "(-0.11)-(-0.63)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "38-62", "standard_score_range": "0.88-0.14"},
+              {"level": "בינונית", "raw_score_range": "0-12", "standard_score_range": "2.06-1.68"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.4",
+        "test_name": "סירוק פונמות למילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 39.52,
+            "standard_deviation": 30.65,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "75-100", "standard_score_range": "(-1.94) ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "63-74", "standard_score_range": "(-1.15)-(-1.81)"},
+              {"level": "נמוכה", "raw_score_range": "50-62", "standard_score_range": "(-0.73)-(-1.12)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "25-49", "standard_score_range": "(-0.34)-(-0.70)"},
+              {"level": "בינונית", "raw_score_range": "13-24", "standard_score_range": "0.86-0.50"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-12", "standard_score_range": "1.25-0.89"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.29"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.5",
+        "test_name": "השמטה של הברה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 21.93,
+            "standard_deviation": 21.29,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "58-100", "standard_score_range": "(-1.69)-(-3.66)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "43-57", "standard_score_range": "(-0.98)-(-1.64)"},
+              {"level": "נמוכה", "raw_score_range": "36-42", "standard_score_range": "(-0.66)-(-0.94)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "21-35", "standard_score_range": "(-0.04)-(-0.61)"},
+              {"level": "בינונית", "raw_score_range": "7-20", "standard_score_range": "0.70-0.09"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-6", "standard_score_range": "0.98-0.74"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.03"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.6",
+        "test_name": "השמטה של פונמה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 47.49,
+            "standard_deviation": 26.89,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "81-100", "standard_score_range": "(-1.24)-(-1.95)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "75-80", "standard_score_range": "(-1.02)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "69-74", "standard_score_range": "(-0.79)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "63-68", "standard_score_range": "(-0.57)-(-0.76)"},
+              {"level": "בינונית", "raw_score_range": "38-62", "standard_score_range": "0.35-(-0.53)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "19-37", "standard_score_range": "1.05-0.40"},
+              {"level": "גבוהה", "raw_score_range": "6-18", "standard_score_range": "1.54-1.09"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-5", "standard_score_range": "1.78-1.58"}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "10.1",
+        "test_name": "שחזור סיפור באמצעות שאלות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 30.96,
+            "standard_deviation": 23.36,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "70-100", "standard_score_range": "(-1.67)-(-2.95)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "50-69", "standard_score_range": "(-0.81)-(-1.62)"},
+              {"level": "נמוכה", "raw_score_range": "40-49", "standard_score_range": "(-0.38)-(-0.77)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "30-39", "standard_score_range": "0.04-(-0.34)"},
+              {"level": "בינונית", "raw_score_range": "20-29", "standard_score_range": "0.46-0.08"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "10-19", "standard_score_range": "0.89-0.51"},
+              {"level": "גבוהה", "raw_score_range": "1-9", "standard_score_range": "1.28-0.94"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.32"}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "10.2",
+        "test_name": "זיכרון פעיל-חזרה ברצף על מילים שהובחנו השלים",
+         "metrics": [
+           {
+            "metric_name": "ציון",
+            "average": 10.65,
+            "standard_deviation": 5.18,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-3", "standard_score_range": "(-1.47)-(-2.05)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "4", "standard_score_range": "(-1.28)"},
+              {"level": "נמוכה", "raw_score_range": "8-9", "standard_score_range": "(-0.51)-(-1.09)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "9", "standard_score_range": "(-0.31)"},
+              {"level": "בינונית", "raw_score_range": "11-12", "standard_score_range": "0.06-(-0.12)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "12", "standard_score_range": "0.26"},
+              {"level": "גבוהה", "raw_score_range": "19-13", "standard_score_range": "1.61-0.45"},
+              {"level": "גבוהה מאוד", "raw_score_range": "20 ומעלה", "standard_score_range": "1.80 ומעלה"}
+            ]
+           }
+        ]
+      }
+    ]
+  },
+   {
+    "class": "כיתה ג'",
+    "period": "מרץ - אוגוסט",
+    "tests": [
+      {
+        "test_number": "2",
+        "test_name": "קריאת מילים בודדות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 39.54,
+            "standard_deviation": 16.87,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-17", "standard_score_range": "-1.33 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "18-23", "standard_score_range": "(-0.92)-(-1.27)"},
+              {"level": "נמוכה", "raw_score_range": "24-27", "standard_score_range": "(-0.74)-(-0.88)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "28-32", "standard_score_range": "(-0.44)-(-0.68)"},
+              {"level": "בינונית", "raw_score_range": "33-45", "standard_score_range": "(-0.38)-0.32"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "45-53", "standard_score_range": "0.32-0.79"},
+              {"level": "גבוהה", "raw_score_range": "54-60", "standard_score_range": "0.98-1.21"},
+              {"level": "גבוהה מאוד", "raw_score_range": "61 ומעלה", "standard_score_range": "1.27 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 18.40,
+            "standard_deviation": 15.67,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "45-100", "standard_score_range": "(-1.69)-(-5.20)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "32-44", "standard_score_range": "(-0.86)-(-1.63)"},
+              {"level": "נמוכה", "raw_score_range": "26-31", "standard_score_range": "(-0.48)-(-0.80)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "20-25", "standard_score_range": "(-0.10)-(-0.42)"},
+              {"level": "בינונית", "raw_score_range": "11-19", "standard_score_range": "0.47-(-0.03)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "7-10", "standard_score_range": "0.72-0.53"},
+              {"level": "גבוהה", "raw_score_range": "3-6", "standard_score_range": "1.17-0.98"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-2", "standard_score_range": "1.17-1.04"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "3.1",
+        "test_name": "קריאת מילות תפל",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 19.32,
+            "standard_deviation": 8.31,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-9", "standard_score_range": "-1.24 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-10", "standard_score_range": "(-0.88)-(-1.12)"},
+              {"level": "נמוכה", "raw_score_range": "14-13", "standard_score_range": "(-0.64)-(-0.76)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "16-15", "standard_score_range": "(-0.39)-(-0.51)"},
+              {"level": "בינונית", "raw_score_range": "17-21", "standard_score_range": "0.20-(-0.27)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "21-25", "standard_score_range": "0.32-0.68"},
+              {"level": "גבוהה", "raw_score_range": "25-29", "standard_score_range": "0.80-1.16"},
+              {"level": "גבוהה מאוד", "raw_score_range": "30 ומעלה", "standard_score_range": "1.28 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 36.80,
+            "standard_deviation": 17.26,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "59-100", "standard_score_range": "(-1.26)-(-3.92)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "52-58", "standard_score_range": "(-0.97)-(-1.22)"},
+              {"level": "נמוכה", "raw_score_range": "39-51", "standard_score_range": "(-0.45)-(-0.92)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-38", "standard_score_range": "(-0.20)-(-0.39)"},
+              {"level": "בינונית", "raw_score_range": "25-34", "standard_score_range": "0.35-0.04"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "18-24", "standard_score_range": "0.70-0.39"},
+              {"level": "גבוהה", "raw_score_range": "12-17", "standard_score_range": "1.17-0.76"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-11", "standard_score_range": "1.22-1.17"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "3.2",
+        "test_name": "קריאת צירופי עיצורים ותנועות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 46.80,
+            "standard_deviation": 17.26,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-14", "standard_score_range": "-1.89 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "20-24", "standard_score_range": "(-1.32)-(-1.55)"},
+              {"level": "נמוכה", "raw_score_range": "25-31", "standard_score_range": "(-0.97)-(-1.26)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "32-38", "standard_score_range": "(-0.62)-(-0.91)"},
+              {"level": "בינונית", "raw_score_range": "39-52", "standard_score_range": "(-0.45)-0.35"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "52-59", "standard_score_range": "0.35-0.70"},
+              {"level": "גבוהה", "raw_score_range": "60-67", "standard_score_range": "1.17-0.76"},
+              {"level": "גבוהה מאוד", "raw_score_range": "68 ומעלה", "standard_score_range": "1.22 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 19.18,
+            "standard_deviation": 18.90,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "48-100", "standard_score_range": "(-1.27)-(-4.27)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "32-47", "standard_score_range": "(-0.73)-(-1.23)"},
+              {"level": "נמוכה", "raw_score_range": "25-31", "standard_score_range": "(-0.46)-(-0.67)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "18-24", "standard_score_range": "(-0.20)-(-0.41)"},
+              {"level": "בינונית", "raw_score_range": "9-17", "standard_score_range": "0.59-(-0.14)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-8", "standard_score_range": "1.01-0.96"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.01"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.1",
+        "test_name": "קריאת בהקשר - טקסט מנוקד: רמה 1 (\"יש לא היה פחדן\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 99.12,
+            "standard_deviation": 34.80,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-47", "standard_score_range": "-1.49 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "48-62", "standard_score_range": "(-1.03)-(-1.46)"},
+              {"level": "נמוכה", "raw_score_range": "63-74", "standard_score_range": "(-0.71)-(-0.99)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "75-85", "standard_score_range": "(-0.41)-(-0.69)"},
+              {"level": "בינונית", "raw_score_range": "86-113", "standard_score_range": "0.40-(-0.37)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "114-128", "standard_score_range": "0.82-1.26"},
+              {"level": "גבוהה", "raw_score_range": "129-143", "standard_score_range": "1.28-1.26"},
+              {"level": "גבוהה מאוד", "raw_score_range": "144 ומעלה", "standard_score_range": "1.28 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 4.01,
+            "standard_deviation": 6.47,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "11-100", "standard_score_range": "(-1.08)-(-14.83)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-10", "standard_score_range": "(-0.46)-(-0.92)"},
+              {"level": "נמוכה", "raw_score_range": "5-6", "standard_score_range": "(-0.15)-(-0.30)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "4", "standard_score_range": "0.00"},
+              {"level": "בינונית", "raw_score_range": "2-3", "standard_score_range": "0.31-0.15"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.46"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.61"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.2",
+        "test_name": "קריאת בהקשר - טקסט לא מנוקד: רמה 1 (\"לפעמים כששחיתי\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 92.30,
+            "standard_deviation": 34.16,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-42", "standard_score_range": "-1.47 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "43-57", "standard_score_range": "(-1.03)-(-1.44)"},
+              {"level": "נמוכה", "raw_score_range": "58-67", "standard_score_range": "(-0.74)-(-1.00)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "68-78", "standard_score_range": "(-0.41)-(-0.71)"},
+              {"level": "בינונית", "raw_score_range": "79-107", "standard_score_range": "0.43-(-0.38)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "108-120", "standard_score_range": "0.81-1.27"},
+              {"level": "גבוהה", "raw_score_range": "121-136", "standard_score_range": "1.30-1.27"},
+              {"level": "גבוהה מאוד", "raw_score_range": "137 ומעלה", "standard_score_range": "1.30 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 4.71,
+            "standard_deviation": 8.76,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "14-100", "standard_score_range": "(-1.18)-(-12.11)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-13", "standard_score_range": "(-0.41)-(-1.05)"},
+              {"level": "נמוכה", "raw_score_range": "6-7", "standard_score_range": "(-0.16)-(-0.29)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "4-5", "standard_score_range": "0.09-(-0.12)"},
+              {"level": "בינונית", "raw_score_range": "2-3", "standard_score_range": "0.47-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.59"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.59"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.3",
+        "test_name": "השפעת ההקשר על קריאת מילים בודדות - רמה 1",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 79.06,
+            "standard_deviation": 27.86,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-39", "standard_score_range": "-1.41 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "40-59", "standard_score_range": "(-1.04)-(-1.41)"},
+              {"level": "נמוכה", "raw_score_range": "60-68", "standard_score_range": "(-0.72)-(-1.01)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "69-91", "standard_score_range": "(-0.39)-(-0.68)"},
+              {"level": "בינונית", "raw_score_range": "92-113", "standard_score_range": "0.46-0.86"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "114-126", "standard_score_range": "1.22-0.90"},
+              {"level": "גבוהה", "raw_score_range": "126", "standard_score_range": "1.26"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 5.47,
+            "standard_deviation": 8.76,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "17-100", "standard_score_range": "(-1.31)-(-10.79)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "10-16", "standard_score_range": "(-0.51)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "6-9", "standard_score_range": "(-0.06)-(-0.40)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "5", "standard_score_range": "0.05"},
+              {"level": "בינונית", "raw_score_range": "2-4", "standard_score_range": "0.39-0.16"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.51"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.62"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 1",
+        "test_name": "השפעת ההפרש על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": 19.92,
+            "standard_deviation": 18.77,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": -1.36,
+            "standard_deviation": 4.75,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 2",
+        "test_name": "השפעת הניקוד על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": 7.03,
+            "standard_deviation": 14.53,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": -0.89,
+            "standard_deviation": 4.72,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.1",
+        "test_name": "דיבור חברתיות כתב",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 16.64,
+            "standard_deviation": 7.05,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-8", "standard_score_range": "-1.23 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "9-11", "standard_score_range": "(-0.94)-(-1.09)"},
+              {"level": "נמוכה", "raw_score_range": "12-13", "standard_score_range": "(-0.63)-(-0.88)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "14-17", "standard_score_range": "(-0.39)-(-0.51)"},
+              {"level": "בינונית", "raw_score_range": "18-24", "standard_score_range": "0.19-(-0.23)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "24-26", "standard_score_range": "0.23-0.62"},
+              {"level": "גבוהה", "raw_score_range": "27", "standard_score_range": "1.33"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 19.18,
+            "standard_deviation": 18.90,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "48-100", "standard_score_range": "(-1.27)-(-4.27)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "32-47", "standard_score_range": "(-0.73)-(-1.23)"},
+              {"level": "נמוכה", "raw_score_range": "25-31", "standard_score_range": "(-0.46)-(-0.67)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "18-24", "standard_score_range": "(-0.20)-(-0.41)"},
+              {"level": "בינונית", "raw_score_range": "9-17", "standard_score_range": "0.59-(-0.14)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-8", "standard_score_range": "1.01-0.96"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.01"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.2.1",
+        "test_name": "כתיב - מילות תפקוד (פונקציה)",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 47.22,
+            "standard_deviation": 17.93,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "75-100", "standard_score_range": "(-1.49)-(-3.5)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "65-74", "standard_score_range": "(-0.99)-(-1.49)"},
+              {"level": "נמוכה", "raw_score_range": "58-64", "standard_score_range": "(-0.60)-(-0.93)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "40-57", "standard_score_range": "(-0.34)-(-0.54)"},
+              {"level": "בינונית", "raw_score_range": "33-39", "standard_score_range": "0.39-(-0.29)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "23-32", "standard_score_range": "0.79-0.45"},
+              {"level": "גבוהה", "raw_score_range": "0-22", "standard_score_range": "1.4-0.84"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "5.2.2",
+        "test_name": "כתיב - מילות תוכן",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 43.98,
+            "standard_deviation": 23.47,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "78-100", "standard_score_range": "(-1.44)-(-2.38)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "70-77", "standard_score_range": "(-1.10)-(-1.40)"},
+              {"level": "נמוכה", "raw_score_range": "60-69", "standard_score_range": "(-0.68)-(-1.06)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-59", "standard_score_range": "(-0.38)-(-0.63)"},
+              {"level": "בינונית", "raw_score_range": "23-34", "standard_score_range": "0.51-(-0.31)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "15-22", "standard_score_range": "0.89-0.51"},
+              {"level": "גבוהה", "raw_score_range": "0-14", "standard_score_range": "1.87-1.27"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.1",
+        "test_name": "שיום אוטומטי מהיר של ספרות (RAN-N)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 104.46,
+            "standard_deviation": 21.71,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-75", "standard_score_range": "-1.31 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "76-85", "standard_score_range": "(-0.89)-(-1.13)"},
+              {"level": "נמוכה", "raw_score_range": "87-91", "standard_score_range": "(-0.62)-(-0.85)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "92-97", "standard_score_range": "(-0.33)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "98-112", "standard_score_range": "(-0.30)-0.40"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "113-122", "standard_score_range": "0.80-1.28"},
+              {"level": "גבוהה", "raw_score_range": "123-129", "standard_score_range": "1.25-1.29"},
+              {"level": "גבוהה מאוד", "raw_score_range": "130 ומעלה", "standard_score_range": "1.29 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 30.97,
+            "standard_deviation": 10.40,
+            "performance_levels": [
+               {"level": "בלתי תקינה", "raw_score_range": "41 ומעלה", "standard_score_range": "(-0.95) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "36-40", "standard_score_range": "(-0.48)-(-0.85)"},
+              {"level": "נמוכה", "raw_score_range": "34-35", "standard_score_range": "(-0.28)-(-0.38)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "32-33", "standard_score_range": "(-0.09)-(-0.19)"},
+              {"level": "בינונית", "raw_score_range": "25-31", "standard_score_range": "0.47-(-0.23)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "23-24", "standard_score_range": "0.76-0.85"},
+              {"level": "גבוהה", "raw_score_range": "22", "standard_score_range": "1.17"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.2",
+        "test_name": "שיום אוטומטי מהיר של אותיות (RAN-L)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 104.20,
+            "standard_deviation": 19.08,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-75", "standard_score_range": "-1.50 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "76-81", "standard_score_range": "(-0.95)-(-1.43)"},
+              {"level": "נמוכה", "raw_score_range": "82-87", "standard_score_range": "(-0.61)-(-0.86)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "88-99", "standard_score_range": "(-0.26)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "100-110", "standard_score_range": "0.40-(-0.14)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "111-120", "standard_score_range": "0.80-1.26"},
+              {"level": "גבוהה", "raw_score_range": "121-128", "standard_score_range": "1.29-1.25"},
+              {"level": "גבוהה מאוד", "raw_score_range": "129 ומעלה", "standard_score_range": "1.29 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 30.02,
+            "standard_deviation": 9.47,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "46 ומעלה", "standard_score_range": "(-1.30) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "41-45", "standard_score_range": "(-0.66)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "38-40", "standard_score_range": "(-0.35)-(-0.62)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-37", "standard_score_range": "0.00-(-0.26)"},
+              {"level": "בינונית", "raw_score_range": "27-34", "standard_score_range": "0.41-0.04"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "26", "standard_score_range": "0.80"},
+              {"level": "גבוהה", "raw_score_range": "22-25", "standard_score_range": "1.05-0.88"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.3",
+        "test_name": "שיום אוטומטי מהיר של עצמים (RAN-O)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 70.14,
+            "standard_deviation": 15.27,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-51", "standard_score_range": "-1.25 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "52-56", "standard_score_range": "(-0.92)-(-1.19)"},
+              {"level": "נמוכה", "raw_score_range": "57-60", "standard_score_range": "(-0.60)-(-0.86)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "61-65", "standard_score_range": "(-0.40)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "66-80", "standard_score_range": "0.32-(-0.34)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "81-88", "standard_score_range": "0.71-1.17"},
+              {"level": "גבוהה", "raw_score_range": "89", "standard_score_range": "1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 45.05,
+            "standard_deviation": 11.68,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "59 ומעלה", "standard_score_range": "(-1.03) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "50-58", "standard_score_range": "(-0.42)-(-0.91)"},
+              {"level": "נמוכה", "raw_score_range": "47-49", "standard_score_range": "(-0.17)-(-0.34)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "40-46", "standard_score_range": "0.43-0.08"},
+              {"level": "בינונית", "raw_score_range": "37-39", "standard_score_range": "0.78-0.63"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "34-36", "standard_score_range": "1.10-0.94"},
+              {"level": "גבוהה", "raw_score_range": "33", "standard_score_range": "1.33"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.4",
+        "test_name": "שיום אוטומטי מהיר של גרידים מקווקווים מתחלפות (RAS)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 81.61,
+            "standard_deviation": 10.32,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-58", "standard_score_range": "-1.31 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "67-71", "standard_score_range": "(-1.21)-(-1.42)"},
+              {"level": "נמוכה", "raw_score_range": "72-76", "standard_score_range": "(-0.89)-(-1.14)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "77-87", "standard_score_range": "(-0.35)-(-0.81)"},
+              {"level": "בינונית", "raw_score_range": "88-97", "standard_score_range": "0.34-0.89"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "98-103", "standard_score_range": "1.25-0.92"},
+              {"level": "גבוהה", "raw_score_range": "104 ומעלה", "standard_score_range": "1.31 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 38.52,
+            "standard_deviation": 10.32,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "52 ומעלה", "standard_score_range": "(-1.30) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "45-51", "standard_score_range": "(-0.63)-(-1.21)"},
+              {"level": "נמוכה", "raw_score_range": "39-44", "standard_score_range": "(-0.24)-(-0.59)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-38", "standard_score_range": "0.05-(-0.14)"},
+              {"level": "בינונית", "raw_score_range": "30-34", "standard_score_range": "0.42-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "29", "standard_score_range": "0.89"},
+              {"level": "גבוהה", "raw_score_range": "28", "standard_score_range": "1.01"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.5",
+        "test_name": "שפה: שיום מילים",
+        "metrics": [
+           {
+            "metric_name": "ציון",
+            "description": "מספר מילים ששלף",
+            "average": 17.16,
+            "standard_deviation": 5.82,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-10", "standard_score_range": "(-1.23)-(-2.95)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-13", "standard_score_range": "(-0.89)-(-1.06)"},
+              {"level": "נמוכה", "raw_score_range": "14-15", "standard_score_range": "(-0.34)-(-0.71)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "19-22", "standard_score_range": "0.32-(-0.37)"},
+              {"level": "בינונית", "raw_score_range": "24-25", "standard_score_range": "1.18-1.35"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.3",
+        "test_name": "סירוק מילה לפונמות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 54.68,
+            "standard_deviation": 34.19,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "100", "standard_score_range": "(-1.33)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "88-99", "standard_score_range": "(-0.97)-(-1.30)"},
+              {"level": "נמוכה", "raw_score_range": "75-87", "standard_score_range": "(-0.59)-(-0.95)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "38-74", "standard_score_range": "0.49-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "13-37", "standard_score_range": "1.22-0.52"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-12", "standard_score_range": "1.57-1.25"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.59"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.4",
+        "test_name": "סירוק פונמות למילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 24.75,
+            "standard_deviation": 25.24,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "63-100", "standard_score_range": "(-1.52) ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "50-62", "standard_score_range": "(-0.96)-(-1.48)"},
+              {"level": "נמוכה", "raw_score_range": "38-49", "standard_score_range": "(-0.49)-(-0.96)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "13-37", "standard_score_range": "0.47-(-0.01)"},
+              {"level": "בינונית", "raw_score_range": "1-12", "standard_score_range": "0.94-0.98"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.98"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.5",
+        "test_name": "השמטה של הברה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 12.37,
+            "standard_deviation": 17.34,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "36-100", "standard_score_range": "(-1.36)-(-5.05)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "21-35", "standard_score_range": "(-0.98)-(-1.31)"},
+              {"level": "נמוכה", "raw_score_range": "14-20", "standard_score_range": "(-0.60)-(-0.90)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "7-13", "standard_score_range": "(-0.09)-(-0.44)"},
+              {"level": "בינונית", "raw_score_range": "2-6", "standard_score_range": "0.80-(-0.04)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.65"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.71"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.6",
+        "test_name": "השמטה של פונמה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 28.41,
+            "standard_deviation": 25.60,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "75-100", "standard_score_range": "(-1.82)-(-2.80)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "56-74", "standard_score_range": "(-1.08)-(-1.78)"},
+              {"level": "נמוכה", "raw_score_range": "44-55", "standard_score_range": "(-0.63)-(-1.04)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "31-43", "standard_score_range": "(-0.10)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "13-30", "standard_score_range": "0.60-(-0.08)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "6-12", "standard_score_range": "0.88-1.07"},
+              {"level": "גבוהה", "raw_score_range": "1-5", "standard_score_range": "1.10-1.07"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.10"}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "10.1",
+        "test_name": "שחזור סיפור באמצעות שאלות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 22.18,
+            "standard_deviation": 22.79,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "60-100", "standard_score_range": "(-1.67)-(-3.41)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "40-59", "standard_score_range": "(-0.78)-(-1.62)"},
+              {"level": "נמוכה", "raw_score_range": "30-39", "standard_score_range": "(-0.34)-(-0.74)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "20-29", "standard_score_range": "0.09-(-0.30)"},
+              {"level": "בינונית", "raw_score_range": "10-19", "standard_score_range": "0.53-0.14"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0-9", "standard_score_range": "1.15-0.97"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "10.2",
+        "test_name": "זיכרון פעיל-חזרה ברצף על מילים שהובחנו השלים",
+         "metrics": [
+           {
+            "metric_name": "ציון",
+            "average": 14.59,
+            "standard_deviation": 8.49,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-4", "standard_score_range": "(-1.26)-(-1.85)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-5", "standard_score_range": "(-0.82)-(-1.12)"},
+              {"level": "נמוכה", "raw_score_range": "9-8", "standard_score_range": "(-0.53)-(-0.68)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "11-10", "standard_score_range": "(-0.30)-(-0.42)"},
+              {"level": "בינונית", "raw_score_range": "12-13", "standard_score_range": "0.64-(-0.19)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "20-17", "standard_score_range": "1.61-0.87"},
+              {"level": "גבוהה", "raw_score_range": "21-22", "standard_score_range": "1.37-1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "23 ומעלה", "standard_score_range": "0.99 ומעלה"}
+            ]
+           }
+        ]
+      }
+    ]
+  },
+   {
+    "class": "כיתה ד'",
+    "period": "מרץ - אוגוסט",
+    "tests": [
+       {
+        "test_number": "1.3",
+        "test_name": "קריאת בהקשר - טקסט סיפורי (\"הסוד\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 104.95,
+            "standard_deviation": 32.49,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-54", "standard_score_range": "-1.57 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "71-82", "standard_score_range": "(-1.04)-(-1.54)"},
+              {"level": "נמוכה", "raw_score_range": "83-93", "standard_score_range": "(-0.71)-(-1.01)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "94-119", "standard_score_range": "(-0.37)-(-0.68)"},
+              {"level": "בינונית", "raw_score_range": "120-133", "standard_score_range": "0.43-0.86"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "134-144", "standard_score_range": "1.20-0.89"},
+              {"level": "גבוהה", "raw_score_range": "145 ומעלה", "standard_score_range": "1.23 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 3.89,
+            "standard_deviation": 5.36,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "9-100", "standard_score_range": "(-0.95)-(-17.93)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-8", "standard_score_range": "(-0.58)-(-0.77)"},
+              {"level": "נמוכה", "raw_score_range": "5-6", "standard_score_range": "(-0.21)-(-0.39)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "4", "standard_score_range": "(-0.02)"},
+              {"level": "בינונית", "raw_score_range": "2-3", "standard_score_range": "0.35-0.17"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.53"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.72"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "1.4",
+        "test_name": "קריאת בהקשר - טקסט מידע (\"שעוני גוף\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 92.41,
+            "standard_deviation": 31.35,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-50", "standard_score_range": "-1.35 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "51-64", "standard_score_range": "(-0.91)-(-1.32)"},
+              {"level": "נמוכה", "raw_score_range": "65-73", "standard_score_range": "(-0.62)-(-0.87)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "74-82", "standard_score_range": "(-0.33)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "83-102", "standard_score_range": "0.31-(-0.30)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "103-115", "standard_score_range": "0.72-1.04"},
+              {"level": "גבוהה", "raw_score_range": "116-125", "standard_score_range": "1.07-1.04"},
+              {"level": "גבוהה מאוד", "raw_score_range": "126 ומעלה", "standard_score_range": "1.07 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 4.75,
+            "standard_deviation": 6.00,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "12-100", "standard_score_range": "(-1.21)-(-15.88)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "8-11", "standard_score_range": "(-0.54)-(-1.04)"},
+              {"level": "נמוכה", "raw_score_range": "6-7", "standard_score_range": "(-0.21)-(-0.41)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "5", "standard_score_range": "(-0.04)"},
+              {"level": "בינונית", "raw_score_range": "2-4", "standard_score_range": "0.46-0.13"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.62"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.79"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "2",
+        "test_name": "קריאת מילים בודדות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 48.96,
+            "standard_deviation": 12.94,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-23", "standard_score_range": "-1.41 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "24-30", "standard_score_range": "(-1.03)-(-1.34)"},
+              {"level": "נמוכה", "raw_score_range": "31-36", "standard_score_range": "(-0.71)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "37-42", "standard_score_range": "(-0.38)-(-0.67)"},
+              {"level": "בינונית", "raw_score_range": "43-65", "standard_score_range": "(-0.33)-0.44"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "66-70", "standard_score_range": "0.80-1.15"},
+              {"level": "גבוהה", "raw_score_range": "71-88", "standard_score_range": "1.20-1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "89 ומעלה", "standard_score_range": "1.23 ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 14.14,
+            "standard_deviation": 18.32,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "34-100", "standard_score_range": "(-1.46)-(-6.64)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "18-33", "standard_score_range": "(-0.89)-(-1.30)"},
+              {"level": "נמוכה", "raw_score_range": "16-17", "standard_score_range": "(-0.47)-(-0.77)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "8-15", "standard_score_range": "0.55-(-0.07)"},
+              {"level": "בינונית", "raw_score_range": "5-7", "standard_score_range": "0.88-0.78"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "3-4", "standard_score_range": "1.09-0.94"},
+              {"level": "גבוהה", "raw_score_range": "0-2", "standard_score_range": "1.09-1.09"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "3.1",
+        "test_name": "קריאת מילות תפל",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 20.76,
+            "standard_deviation": 7.73,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-11", "standard_score_range": "-1.26 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-15", "standard_score_range": "(-0.99)-(-1.10)"},
+              {"level": "נמוכה", "raw_score_range": "16-17", "standard_score_range": "(-0.64)-(-0.76)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "18-22", "standard_score_range": "(-0.27)-(-0.60)"},
+              {"level": "בינונית", "raw_score_range": "22.1-27", "standard_score_range": "0.16-(-0.24)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "28-30", "standard_score_range": "0.57-0.92"},
+              {"level": "גבוהה", "raw_score_range": "31-32", "standard_score_range": "1.20-1.71"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 38.93,
+            "standard_deviation": 22.74,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "73-100", "standard_score_range": "(-1.50)-(-2.69)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "64-72", "standard_score_range": "(-1.00)-(-1.45)"},
+              {"level": "נמוכה", "raw_score_range": "55-63", "standard_score_range": "(-0.63)-(-0.96)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "48-54", "standard_score_range": "(-0.40)-(-0.56)"},
+              {"level": "בינונית", "raw_score_range": "26-47", "standard_score_range": "0.52-(-0.35)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "18-25", "standard_score_range": "1.10-0.92"},
+              {"level": "גבוהה", "raw_score_range": "9-17", "standard_score_range": "1.32-1.36"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-8", "standard_score_range": "1.71-1.36"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "3.2",
+        "test_name": "קריאת צירופי עיצורים ותנועות",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 49.67,
+            "standard_deviation": 18.54,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-26", "standard_score_range": "-1.27 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "27-32", "standard_score_range": "(-0.91)-(-1.22)"},
+              {"level": "נמוכה", "raw_score_range": "33-37", "standard_score_range": "(-0.62)-(-0.87)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "38-42", "standard_score_range": "(-0.38)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "43-65", "standard_score_range": "(-0.30)-0.67"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "66-70", "standard_score_range": "0.90-1.10"},
+              {"level": "גבוהה", "raw_score_range": "71-78", "standard_score_range": "1.20-1.15"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 27.40,
+            "standard_deviation": 16.03,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "53-100", "standard_score_range": "(-1.60)-(-4.53)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "44-52", "standard_score_range": "(-1.04)-(-1.53)"},
+              {"level": "נמוכה", "raw_score_range": "38-43", "standard_score_range": "(-0.66)-(-0.95)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "33-37", "standard_score_range": "(-0.35)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "19-32", "standard_score_range": "0.52-(-0.29)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "8-12", "standard_score_range": "1.21-0.96"},
+              {"level": "גבוהה", "raw_score_range": "0-7", "standard_score_range": "1.71-1.27"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "4.1",
+        "test_name": "קריאת בהקשר - טקסט מנוקד: רמה 1 (\"יש לא היה פחדן\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 117.59,
+            "standard_deviation": 33.59,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-65", "standard_score_range": "-1.57 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-8", "standard_score_range": "(-1.06)-(-1.55)"},
+              {"level": "נמוכה", "raw_score_range": "85-94", "standard_score_range": "(-0.59)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "95-108", "standard_score_range": "(-0.27)-(-0.56)"},
+              {"level": "בינונית", "raw_score_range": "109-145", "standard_score_range": "0.42-(-0.25)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "146-157", "standard_score_range": "0.82-1.19"},
+              {"level": "גבוהה", "raw_score_range": "158 ומעלה", "standard_score_range": "1.19 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 3.90,
+            "standard_deviation": 4.79,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "7-100", "standard_score_range": "(-0.85)-(-20.27)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "5-6", "standard_score_range": "(-0.22)-(-0.49)"},
+              {"level": "נמוכה", "raw_score_range": "4", "standard_score_range": "(-0.01)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "1-3", "standard_score_range": "0.61-0.42"},
+              {"level": "בינונית", "raw_score_range": "0", "standard_score_range": "0.61"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.2",
+        "test_name": "קריאת בהקשר - טקסט לא מנוקד: רמה 1 (\"לפעמים כששחיתי\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 113.71,
+            "standard_deviation": 33.96,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-60", "standard_score_range": "-1.58 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "80-92", "standard_score_range": "(-0.99)-(-1.55)"},
+              {"level": "נמוכה", "raw_score_range": "93-103", "standard_score_range": "(-0.64)-(-0.96)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "104-130", "standard_score_range": "0.48-(-0.29)"},
+              {"level": "בינונית", "raw_score_range": "131-141", "standard_score_range": "0.80-1.19"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "142-154", "standard_score_range": "1.21-1.19"},
+              {"level": "גבוהה", "raw_score_range": "155 ומעלה", "standard_score_range": "1.21 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 2.68,
+            "standard_deviation": 5.73,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "7-100", "standard_score_range": "(-0.75)-(-16.98)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "5-6", "standard_score_range": "(-0.23)-(-0.58)"},
+              {"level": "נמוכה", "raw_score_range": "4", "standard_score_range": "(-0.05)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "2-3", "standard_score_range": "0.29-0.11"},
+              {"level": "בינונית", "raw_score_range": "1", "standard_score_range": "0.46"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.46"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "4.3",
+        "test_name": "השפעת ההקשר על קריאת מילים בודדות - רמה 1",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 92.64,
+            "standard_deviation": 26.27,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-54", "standard_score_range": "-1.47 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "68-77", "standard_score_range": "(-0.94)-(-1.43)"},
+              {"level": "נמוכה", "raw_score_range": "77-83", "standard_score_range": "(-0.57)-(-0.92)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "83-103", "standard_score_range": "(-0.33)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "104-115", "standard_score_range": "0.39-0.85"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "116-125", "standard_score_range": "1.23-0.89"},
+              {"level": "גבוהה", "raw_score_range": "126 ומעלה", "standard_score_range": "1.27 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 3.62,
+            "standard_deviation": 6.50,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "10-100", "standard_score_range": "(-0.98)-(-14.83)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "6-9", "standard_score_range": "(-0.37)-(-0.83)"},
+              {"level": "נמוכה", "raw_score_range": "4-5", "standard_score_range": "(-0.08)-(-0.21)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "2-3", "standard_score_range": "0.12-0.02"},
+              {"level": "בינונית", "raw_score_range": "1", "standard_score_range": "0.50"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.68"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 1",
+        "test_name": "השפעת ההפרש על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": 25.28,
+            "standard_deviation": 18.67,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.3 (מילים בודדות)",
+            "average": -0.69,
+            "standard_deviation": 3.33,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 2",
+        "test_name": "השפעת הניקוד על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": 4.27,
+            "standard_deviation": 15.18,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.1 (מנוקד) לבין מבחן 4.2 (לא מנוקד)",
+            "average": 0.23,
+            "standard_deviation": 2.75,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "4.4",
+        "test_name": "קריאת בהקשר - טקסט מנוקד: רמה 2 (\"עשרים תלמידים\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 83.79,
+            "standard_deviation": 28.39,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-42", "standard_score_range": "-1.47 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "55-64", "standard_score_range": "(-1.01)-(-1.44)"},
+              {"level": "נמוכה", "raw_score_range": "65-72", "standard_score_range": "(-0.63)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "72-96", "standard_score_range": "(-0.42)-(-0.65)"},
+              {"level": "בינונית", "raw_score_range": "96-109", "standard_score_range": "0.43-0.89"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "110-120", "standard_score_range": "1.28-0.92"},
+              {"level": "גבוהה", "raw_score_range": "121 ומעלה", "standard_score_range": "1.31 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 5.82,
+            "standard_deviation": 7.61,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "15-100", "standard_score_range": "(-1.21)-(-12.38)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "10-14", "standard_score_range": "(-0.55)-(-1.07)"},
+              {"level": "נמוכה", "raw_score_range": "7-9", "standard_score_range": "(-0.16)-(-0.42)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "5-6", "standard_score_range": "0.11-(-0.02)"},
+              {"level": "בינונית", "raw_score_range": "3-4", "standard_score_range": "0.63-0.50"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-2", "standard_score_range": "0.95-0.76"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.76"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "4.5",
+        "test_name": "קריאת בהקשר - טקסט לא מנוקד: רמה 2 (\"והיה יום חורף קר\")",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 66.65,
+            "standard_deviation": 24.01,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-32", "standard_score_range": "-1.52 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "44-51", "standard_score_range": "(-1.03)-(-1.48)"},
+              {"level": "נמוכה", "raw_score_range": "52-58", "standard_score_range": "(-0.74)-(-0.99)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "59-79", "standard_score_range": "(-0.40)-(-0.69)"},
+              {"level": "בינונית", "raw_score_range": "80-101", "standard_score_range": "0.43-1.31"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "101", "standard_score_range": "1.31"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 9.30,
+            "standard_deviation": 9.73,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "24-100", "standard_score_range": "(-1.51)-(-9.32)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "15-23", "standard_score_range": "(-0.59)-(-1.41)"},
+              {"level": "נמוכה", "raw_score_range": "12-14", "standard_score_range": "(-0.28)-(-0.48)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "10-11", "standard_score_range": "(-0.07)-(-0.17)"},
+              {"level": "בינונית", "raw_score_range": "4-9", "standard_score_range": "0.54-0.03"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "3", "standard_score_range": "0.64"},
+              {"level": "גבוהה", "raw_score_range": "1-2", "standard_score_range": "0.95-0.85"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "0.95"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "4.6",
+        "test_name": "השפעת ההקשר על קריאת מילים בודדות - רמה 2",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 72.34,
+            "standard_deviation": 25.25,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-29", "standard_score_range": "-1.71 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "48-57", "standard_score_range": "(-0.96)-(-1.68)"},
+              {"level": "נמוכה", "raw_score_range": "57-64", "standard_score_range": "(-0.61)-(-0.92)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "64-83", "standard_score_range": "(-0.33)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "84-102", "standard_score_range": "0.46-0.82"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "103-104", "standard_score_range": "1.21-1.21"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 7.21,
+            "standard_deviation": 10.50,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "22-100", "standard_score_range": "(-1.41)-(-8.84)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-21", "standard_score_range": "(-0.46)-(-1.31)"},
+              {"level": "נמוכה", "raw_score_range": "8-11", "standard_score_range": "(-0.08)-(-0.36)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "6-7", "standard_score_range": "0.12-0.02"},
+              {"level": "בינונית", "raw_score_range": "2-5", "standard_score_range": "0.50-0.21"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.59"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.68"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 1 (R2)",
+        "test_name": "השפעת ההפרש על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.4 (מנוקד) לבין מבחן 4.6 (מילים בודדות)",
+            "average": 11.26,
+            "standard_deviation": 16.50,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.4 (מנוקד) לבין מבחן 4.6 (מילים בודדות)",
+            "average": -1.30,
+            "standard_deviation": 4.89,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "Difference 2 (R2)",
+        "test_name": "השפעת הניקוד על קצב ודיוק הקריאה: פרק 6",
+        "type": "difference_score_analysis",
+        "metrics": [
+          {
+            "metric_name": "הפרש מספר מילים לדקה",
+            "description": "בין מבחן 4.4 (מנוקד) לבין מבחן 4.5 (לא מנוקד)",
+            "average": 15.37,
+            "standard_deviation": 13.29,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          },
+          {
+            "metric_name": "הפרש באחוז שגיאות",
+            "description": "בין מבחן 4.4 (מנוקד) לבין מבחן 4.5 (לא מנוקד)",
+            "average": -3.63,
+            "standard_deviation": 4.93,
+             "performance_levels": [
+              {"level": "בלתי תקינה", "standard_score_range": "(-1.50) ומטה"},
+              {"level": "נמוכה", "standard_score_range": "(-1.00)-(-1.49)"},
+              {"level": "נמוכה מאוד", "standard_score_range": "(-0.75)-(-0.99)"},
+              {"level": "בינונית-נמוכה ומעלה", "standard_score_range": "(-0.74) ומעלה"}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.1",
+        "test_name": "דיבור חברתיות כתב",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 20.25,
+            "standard_deviation": 8.35,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-10", "standard_score_range": "-1.22 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-13", "standard_score_range": "(-0.99)-(-1.11)"},
+              {"level": "נמוכה", "raw_score_range": "15-17", "standard_score_range": "(-0.63)-(-0.87)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "18-22", "standard_score_range": "(-0.27)-(-0.51)"},
+              {"level": "בינונית", "raw_score_range": "22.1-26", "standard_score_range": "0.21-(-0.27)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "26-31", "standard_score_range": "0.69-0.33"},
+              {"level": "גבוהה", "raw_score_range": "32 ומעלה", "standard_score_range": "1.40 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 11.25,
+            "standard_deviation": 17.00,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "36-100", "standard_score_range": "(-1.46)-(-5.22)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "21-35", "standard_score_range": "(-0.57)-(-1.40)"},
+              {"level": "נמוכה", "raw_score_range": "15-20", "standard_score_range": "(-0.22)-(-0.51)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "10-14", "standard_score_range": "0.07-(-0.16)"},
+              {"level": "בינונית", "raw_score_range": "0-9", "standard_score_range": "0.66-0.13"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "5.2.1",
+        "test_name": "כתיב - מילות תפקוד (פונקציה)",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 38.30,
+            "standard_deviation": 19.09,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "70-100", "standard_score_range": "(-1.66)-(-3.23)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "60-69", "standard_score_range": "(-1.14)-(-1.61)"},
+              {"level": "נמוכה", "raw_score_range": "50-59", "standard_score_range": "(-0.61)-(-1.08)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "45-49", "standard_score_range": "(-0.35)-(-0.56)"},
+              {"level": "בינונית", "raw_score_range": "30-44", "standard_score_range": "0.43-(-0.30)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "20-29", "standard_score_range": "0.94-0.48"},
+              {"level": "גבוהה", "raw_score_range": "10-19", "standard_score_range": "1.48-1.01"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0-9", "standard_score_range": "2.01-1.53"}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "5.2.2",
+        "test_name": "כתיב - מילות תוכן",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 30.65,
+            "standard_deviation": 22.94,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "65-100", "standard_score_range": "(-1.45)-(-3.02)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "55-64", "standard_score_range": "(-1.02)-(-1.40)"},
+              {"level": "נמוכה", "raw_score_range": "45-54", "standard_score_range": "(-0.58)-(-0.98)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-44", "standard_score_range": "(-0.15)-(-0.55)"},
+              {"level": "בינונית", "raw_score_range": "10-34", "standard_score_range": "0.68-(-0.04)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "5-9", "standard_score_range": "1.12-0.94"},
+              {"level": "גבוהה", "raw_score_range": "0-4", "standard_score_range": "1.34-1.16"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "5.2.3",
+        "test_name": "הכתבה של טקסט - לכיתות ג', ד'",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר מילים לדקה",
+            "average": 18.42,
+            "standard_deviation": 7.38,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-10", "standard_score_range": "-1.14 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "13-15", "standard_score_range": "(-0.73)-(-1.01)"},
+              {"level": "נמוכה", "raw_score_range": "16", "standard_score_range": "(-0.46)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "17-20", "standard_score_range": "(-0.32)-0.19"},
+              {"level": "בינונית", "raw_score_range": "21-22", "standard_score_range": "0.49-0.21"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "26-27", "standard_score_range": "1.03-1.16"},
+              {"level": "גבוהה", "raw_score_range": "27", "standard_score_range": "1.16"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 20.95,
+            "standard_deviation": 17.08,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "50-100", "standard_score_range": "(-1.63)-(-4.70)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "36-49", "standard_score_range": "(-0.88)-(-1.64)"},
+              {"level": "נמוכה", "raw_score_range": "24-35", "standard_score_range": "(-0.59)-(-0.82)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "11-23", "standard_score_range": "0.48-(-0.12)"},
+              {"level": "בינונית", "raw_score_range": "5-10", "standard_score_range": "0.93-0.64"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-4", "standard_score_range": "1.23-1.17"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "6",
+        "test_name": "קריאת מילים מרובות-תרכובת: גזירה והיסטה עם מילים משמעותיות-רמת הוספה",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 13.05,
+            "standard_deviation": 13.43,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "33-100", "standard_score_range": "(-1.49)-(-6.47)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "22-32", "standard_score_range": "(-0.67)-(-1.41)"},
+              {"level": "נמוכה", "raw_score_range": "17-21", "standard_score_range": "(-0.29)-(-0.59)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "6-16", "standard_score_range": "0.52-(-0.22)"},
+              {"level": "בינונית", "raw_score_range": "0-5", "standard_score_range": "0.97-0.56"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "7",
+        "test_name": "קריאת תרכיב (מבחן אזכורים)",
+        "metrics": [
+          {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 17.70,
+            "standard_deviation": 15.40,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "45-100", "standard_score_range": "(-1.77)-(-5.34)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "30-44", "standard_score_range": "(-0.80)-(-1.71)"},
+              {"level": "נמוכה", "raw_score_range": "20-29", "standard_score_range": "(-0.24)-(-0.75)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "1-9", "standard_score_range": "1.08-0.89"},
+              {"level": "בינונית", "raw_score_range": "0", "standard_score_range": "1.14"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.1",
+        "test_name": "שיום אוטומטי מהיר של ספרות (RAN-N)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 117.87,
+            "standard_deviation": 22.27,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-86", "standard_score_range": "-1.42 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "97-105", "standard_score_range": "(-0.93)-(-1.38)"},
+              {"level": "נמוכה", "raw_score_range": "111-124", "standard_score_range": "(-0.30)-(-0.55)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "124-136", "standard_score_range": "0.33-(-0.25)"},
+              {"level": "בינונית", "raw_score_range": "137-144", "standard_score_range": "0.82-1.17"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "144 ומעלה", "standard_score_range": "1.18 ומעלה"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 26.60,
+            "standard_deviation": 6.32,
+            "performance_levels": [
+               {"level": "בלתי תקינה", "raw_score_range": "35 ומעלה", "standard_score_range": "(-1.31) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "31-34", "standard_score_range": "(-0.69)-(-1.16)"},
+              {"level": "נמוכה", "raw_score_range": "29-30", "standard_score_range": "(-0.38)-(-0.53)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "27-28", "standard_score_range": "0.41-(-0.05)"},
+              {"level": "בינונית", "raw_score_range": "21-26", "standard_score_range": "0.87-0.72"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "20", "standard_score_range": "1.03"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.2",
+        "test_name": "שיום אוטומטי מהיר של אותיות (RAN-L)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 104.20,
+            "standard_deviation": 19.08,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-76", "standard_score_range": "-1.47 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "77-87", "standard_score_range": "(-0.95)-(-1.43)"},
+              {"level": "נמוכה", "raw_score_range": "92-99", "standard_score_range": "(-0.59)-(-0.87)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "99-111", "standard_score_range": "(-0.26)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "112-120", "standard_score_range": "0.80-0.33"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "121-128", "standard_score_range": "1.25-0.88"},
+              {"level": "גבוהה", "raw_score_range": "129 ומעלה", "standard_score_range": "1.29 ומעלה"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 30.02,
+            "standard_deviation": 9.47,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "40 ומעלה", "standard_score_range": "(-1.32) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "35-39", "standard_score_range": "(-0.66)-(-1.20)"},
+              {"level": "נמוכה", "raw_score_range": "33-34", "standard_score_range": "(-0.40)-(-0.54)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "27-32", "standard_score_range": "0.00-(-0.26)"},
+              {"level": "בינונית", "raw_score_range": "23-26", "standard_score_range": "0.76-0.91"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "22", "standard_score_range": "1.08"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.3",
+        "test_name": "שיום אוטומטי מהיר של עצמים (RAN-O)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 70.14,
+            "standard_deviation": 15.27,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-51", "standard_score_range": "-1.25 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "52-56", "standard_score_range": "(-0.92)-(-1.19)"},
+              {"level": "נמוכה", "raw_score_range": "57-60", "standard_score_range": "(-0.60)-(-0.86)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "61-65", "standard_score_range": "(-0.40)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "66-80", "standard_score_range": "0.32-(-0.34)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "81-88", "standard_score_range": "0.71-1.17"},
+              {"level": "גבוהה", "raw_score_range": "89", "standard_score_range": "1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 45.05,
+            "standard_deviation": 11.68,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "59 ומעלה", "standard_score_range": "(-1.03) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "50-58", "standard_score_range": "(-0.42)-(-0.91)"},
+              {"level": "נמוכה", "raw_score_range": "47-49", "standard_score_range": "(-0.17)-(-0.34)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "40-46", "standard_score_range": "0.43-0.08"},
+              {"level": "בינונית", "raw_score_range": "37-39", "standard_score_range": "0.78-0.63"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "34-36", "standard_score_range": "1.10-0.94"},
+              {"level": "גבוהה", "raw_score_range": "33", "standard_score_range": "1.33"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+      {
+        "test_number": "8.4",
+        "test_name": "שיום אוטומטי מהיר של גרידים מקווקווים מתחלפות (RAS)",
+        "metrics": [
+          {
+            "metric_name": "קצב",
+            "description": "מספר פריטים לדקה",
+            "average": 81.61,
+            "standard_deviation": 10.32,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-67", "standard_score_range": "-1.42 ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "71-76", "standard_score_range": "(-1.00)-(-1.36)"},
+              {"level": "נמוכה", "raw_score_range": "77-81", "standard_score_range": "(-0.65)-(-0.97)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "82-87", "standard_score_range": "(-0.30)-(-0.59)"},
+              {"level": "בינונית", "raw_score_range": "88-103", "standard_score_range": "0.42-0.83"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "104 ומעלה", "standard_score_range": "1.25 ומעלה"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          },
+          {
+            "metric_name": "זמן",
+            "description": "שיום פריטים",
+            "average": 38.52,
+            "standard_deviation": 10.32,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "58 ומעלה", "standard_score_range": "(-1.30) ומעלה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "45-57", "standard_score_range": "(-0.63)-(-1.21)"},
+              {"level": "נמוכה", "raw_score_range": "39-44", "standard_score_range": "(-0.24)-(-0.59)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "35-38", "standard_score_range": "0.05-(-0.14)"},
+              {"level": "בינונית", "raw_score_range": "30-34", "standard_score_range": "0.42-0.34"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "29", "standard_score_range": "0.89"},
+              {"level": "גבוהה", "raw_score_range": "28", "standard_score_range": "1.01"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+          }
+        ]
+      },
+       {
+        "test_number": "8.5",
+        "test_name": "שפה: שיום מילים",
+        "metrics": [
+           {
+            "metric_name": "ציון",
+            "description": "מספר מילים ששלף",
+            "average": 17.16,
+            "standard_deviation": 5.82,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-10", "standard_score_range": "(-1.23)-(-2.95)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "12-13", "standard_score_range": "(-0.89)-(-1.06)"},
+              {"level": "נמוכה", "raw_score_range": "14-15", "standard_score_range": "(-0.34)-(-0.71)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "19-22", "standard_score_range": "0.32-(-0.37)"},
+              {"level": "בינונית", "raw_score_range": "24-25", "standard_score_range": "1.18-1.35"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.3",
+        "test_name": "סירוק מילה לפונמות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 54.68,
+            "standard_deviation": 34.19,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "100", "standard_score_range": "(-1.33)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "88-99", "standard_score_range": "(-0.97)-(-1.30)"},
+              {"level": "נמוכה", "raw_score_range": "75-87", "standard_score_range": "(-0.59)-(-0.95)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "38-74", "standard_score_range": "0.49-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "13-37", "standard_score_range": "1.22-0.52"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1-12", "standard_score_range": "1.57-1.25"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "1.59"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.4",
+        "test_name": "סירוק פונמות למילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 24.75,
+            "standard_deviation": 25.24,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "63-100", "standard_score_range": "(-1.52) ומטה"},
+              {"level": "נמוכה מאוד", "raw_score_range": "50-62", "standard_score_range": "(-0.96)-(-1.48)"},
+              {"level": "נמוכה", "raw_score_range": "38-49", "standard_score_range": "(-0.49)-(-0.96)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "13-37", "standard_score_range": "0.47-(-0.01)"},
+              {"level": "בינונית", "raw_score_range": "1-12", "standard_score_range": "0.94-0.98"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0", "standard_score_range": "0.98"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "9.5",
+        "test_name": "השמטה של הברה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 12.37,
+            "standard_deviation": 17.34,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "36-100", "standard_score_range": "(-1.36)-(-5.05)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "21-35", "standard_score_range": "(-0.98)-(-1.31)"},
+              {"level": "נמוכה", "raw_score_range": "14-20", "standard_score_range": "(-0.60)-(-0.90)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "7-13", "standard_score_range": "(-0.09)-(-0.44)"},
+              {"level": "בינונית", "raw_score_range": "2-6", "standard_score_range": "0.80-(-0.04)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "1", "standard_score_range": "0.65"},
+              {"level": "גבוהה", "raw_score_range": "0", "standard_score_range": "0.71"},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "9.6",
+        "test_name": "השמטה של פונמה במילה",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 28.41,
+            "standard_deviation": 25.60,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "75-100", "standard_score_range": "(-1.82)-(-2.80)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "56-74", "standard_score_range": "(-1.08)-(-1.78)"},
+              {"level": "נמוכה", "raw_score_range": "44-55", "standard_score_range": "(-0.63)-(-1.04)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "31-43", "standard_score_range": "(-0.10)-(-0.57)"},
+              {"level": "בינונית", "raw_score_range": "13-30", "standard_score_range": "0.60-(-0.08)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "6-12", "standard_score_range": "0.88-1.07"},
+              {"level": "גבוהה", "raw_score_range": "1-5", "standard_score_range": "1.10-1.07"},
+              {"level": "גבוהה מאוד", "raw_score_range": "0", "standard_score_range": "1.10"}
+            ]
+           }
+        ]
+      },
+      {
+        "test_number": "10.1",
+        "test_name": "שחזור סיפור באמצעות שאלות",
+        "metrics": [
+           {
+            "metric_name": "דיוק",
+            "description": "אחוז שגיאות",
+            "average": 22.18,
+            "standard_deviation": 22.79,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "60-100", "standard_score_range": "(-1.67)-(-3.41)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "40-59", "standard_score_range": "(-0.78)-(-1.62)"},
+              {"level": "נמוכה", "raw_score_range": "30-39", "standard_score_range": "(-0.34)-(-0.74)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "20-29", "standard_score_range": "0.09-(-0.30)"},
+              {"level": "בינונית", "raw_score_range": "10-19", "standard_score_range": "0.53-0.14"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "0-9", "standard_score_range": "1.15-0.97"},
+              {"level": "גבוהה", "raw_score_range": "", "standard_score_range": ""},
+              {"level": "גבוהה מאוד", "raw_score_range": "", "standard_score_range": ""}
+            ]
+           }
+        ]
+      },
+       {
+        "test_number": "10.2",
+        "test_name": "זיכרון פעיל-חזרה ברצף על מילים שהובחנו השלים",
+         "metrics": [
+           {
+            "metric_name": "ציון",
+            "average": 14.59,
+            "standard_deviation": 8.49,
+            "performance_levels": [
+              {"level": "בלתי תקינה", "raw_score_range": "0-4", "standard_score_range": "(-1.26)-(-1.85)"},
+              {"level": "נמוכה מאוד", "raw_score_range": "7-5", "standard_score_range": "(-0.82)-(-1.12)"},
+              {"level": "נמוכה", "raw_score_range": "9-8", "standard_score_range": "(-0.53)-(-0.68)"},
+              {"level": "בינונית-נמוכה", "raw_score_range": "11-10", "standard_score_range": "(-0.30)-(-0.42)"},
+              {"level": "בינונית", "raw_score_range": "12-13", "standard_score_range": "0.64-(-0.19)"},
+              {"level": "בינונית-גבוהה", "raw_score_range": "20-17", "standard_score_range": "1.61-0.87"},
+              {"level": "גבוהה", "raw_score_range": "21-22", "standard_score_range": "1.37-1.23"},
+              {"level": "גבוהה מאוד", "raw_score_range": "23 ומעלה", "standard_score_range": "0.99 ומעלה"}
+            ]
+           }
+        ]
+      }
+    ]
+  }
+]
