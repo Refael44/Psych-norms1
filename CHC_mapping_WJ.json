@@ -1,0 +1,54 @@
+{
+  "הבנה מילולית": {
+    "broad_ability": "Gc",
+    "narrow_ability": "VL - Vocabulary Knowledge"
+  },
+  "ידע כללי": {
+    "broad_ability": "Gc",
+    "narrow_ability": "KO - General Information"
+  },
+  "למידה חזותית – שמיעתית": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Associative Memory"
+  },
+  "שטף סמנטי": {
+    "broad_ability": "Glr",
+    "narrow_ability": "NA - Naming Facility"
+  },
+  "עיבוד מרחבי": {
+    "broad_ability": "Gv",
+    "narrow_ability": "MV - Spatial Relations"
+  },
+  "זיהוי ציורים": {
+    "broad_ability": "Gv",
+    "narrow_ability": "MV - Visualization"
+  },
+  "מיזוג צלילים": {
+    "broad_ability": "Ga",
+    "narrow_ability": "PC - Phonetic Coding"
+  },
+  "מילים לא שלמות": {
+    "broad_ability": "Ga",
+    "narrow_ability": "PC - Sound Blending"
+  },
+  "יצירת כללים": {
+    "broad_ability": "Gf",
+    "narrow_ability": "RQ - Induction"
+  },
+  "אנליזה – סינתזה": {
+    "broad_ability": "Gf",
+    "narrow_ability": "RG - General Sequential Reasoning"
+  },
+  "התאמה חזותית": {
+    "broad_ability": "Gs",
+    "narrow_ability": "P - Perceptual Speed"
+  },
+  "מהירות החלטה": {
+    "broad_ability": "Gs",
+    "narrow_ability": "RT - Decision Speed"
+  },
+  "זכירת מילים": {
+    "broad_ability": "Gsm",
+    "narrow_ability": "MW - Memory Span"
+  }
+}

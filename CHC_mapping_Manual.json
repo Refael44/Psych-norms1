@@ -1,0 +1,74 @@
+{
+  "זכירת סיפורים מיידי": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MS - Meaningful Memory"
+  },
+  "זכירת סיפורים מושהה": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MS - Meaningful Memory"
+  },
+  "RCFT היזכרות בינונית": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Visual Memory"
+  },
+  "RCFT היזכרות ארוכה": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Visual Memory"
+  },
+  "RAVLT הקראה 1": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Auditory Memory"
+  },
+  "RAVLT הקראה 5": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Auditory Memory"
+  },
+  "RAVLT רשימה מסיחה": {
+    "broad_ability": "Glr",
+    "narrow_ability": "FA - Free Recall Fluency"
+  },
+  "RAVLT זכירה לאחר הסחה": {
+    "broad_ability": "Glr",
+    "narrow_ability": "FA - Free Recall Fluency"
+  },
+  "RAVLT זכירה לטווח ארוך": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Long-Term Recall"
+  },
+  "RAVLT זיהוי": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Recognition Memory"
+  },
+  "שיום אותיות": {
+    "broad_ability": "Glr",
+    "narrow_ability": "NA - Naming Facility"
+  },
+  "שיום ספרות": {
+    "broad_ability": "Glr",
+    "narrow_ability": "NA - Naming Facility"
+  },
+  "שטף פונמי": {
+    "broad_ability": "Glr",
+    "narrow_ability": "FA - Phonetic Fluency"
+  },
+  "RCFT דיוק העתקה": {
+    "broad_ability": "Gv",
+    "narrow_ability": "MV - Visual Analysis"
+  },
+  "RCFT זמן העתקה": {
+    "broad_ability": "Gs",
+    "narrow_ability": "P - Perceptual Speed"
+  },
+  "השמטת הברה": {
+    "broad_ability": "Ga",
+    "narrow_ability": "PC - Phonological Awareness"
+  },
+  "זכירת ספרות לאחור": {
+    "broad_ability": "Gsm",
+    "narrow_ability": "MW - Working Memory"
+  },
+  "RAVLT הקראה 6": {
+    "broad_ability": "Glr",
+    "narrow_ability": "MA - Learning Efficiency"
+  }
+}
